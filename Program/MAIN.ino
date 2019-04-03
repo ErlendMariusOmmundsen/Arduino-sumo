@@ -154,7 +154,7 @@ void loop() {
     }
     degreesServo = 65;
     motors.setSpeeds(400,400);
-    delay(50);
+    delay(100);
     }
     else{
       motors.setSpeeds(200,200);
